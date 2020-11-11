@@ -1,9 +1,11 @@
-.post{
+.post {
   border: 1px solid;
   width: 40%;
   margin-top: 30px;
 }
-
-.post-date{
+.post-date {
   color: gray;
+}
+div[data-check="true"] {
+  background: #585555;
 }
